@@ -29,7 +29,7 @@ header {}
 #main {
   @include stretch(40%, 1em, 40%, 1em);
   img {
-    width:50%;
+    width:19%;
     @include inline-block;
     margin:0 auto;
   }
